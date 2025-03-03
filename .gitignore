@@ -1,0 +1,13 @@
+# Build directories
+/build/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Editor specific files
+*.swp
+*.swo
+.vscode/
