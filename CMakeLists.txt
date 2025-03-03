@@ -20,7 +20,7 @@ endif()
 include_directories(${CMAKE_SOURCE_DIR}/include)
 
 # ------------------------------------------------------------------------------
-# Dependencies
+# dependencies
 # ------------------------------------------------------------------------------
 
 # find boost libraries: asio, beast, system, file system
@@ -75,7 +75,7 @@ if(spdlog_FOUND)
 endif()
 
 # ------------------------------------------------------------------------------
-# unit Testing (using GoogleTest)
+# unit testing (using GoogleTest)
 # ------------------------------------------------------------------------------
 
 enable_testing()
